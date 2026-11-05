@@ -99,9 +99,9 @@ The possible results are:
 
 ![Bicycle rental form](screenshots/bicycle.png)
 
-### Mushroom identification form
+### Invalid
 
-![Mushroom identification form](screenshots/mushroom.png)
+![Invalid](screenshots/mushroom.png)
 
 ### Mushroom question 1
 
