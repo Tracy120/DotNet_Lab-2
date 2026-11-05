@@ -103,7 +103,29 @@ The possible results are:
 
 ![Mushroom identification form](screenshots/mushroom.png)
 
-> Save the screenshots using these filenames inside a folder named `screenshots` in the project directory.
+### Mushroom question 1
+
+![Mushroom question 1](screenshots/mushroom-question-1.png)
+
+### Mushroom question 2
+
+![Mushroom question 2](screenshots/mushroom-question-2.png)
+
+### Mushroom result
+
+![Mushroom result](screenshots/mushroom-result.png)
+
+Save all screenshots inside the `screenshots` folder using these filenames:
+
+```text
+login.png
+menu.png
+bicycle.png
+mushroom.png
+mushroom-question-1.png
+mushroom-question-2.png
+mushroom-result.png
+```
 
 ## How to run
 
