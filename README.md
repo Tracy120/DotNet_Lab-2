@@ -1,4 +1,4 @@
-# .NET Lab 1 – Bicycle Rental and Mushroom Identification
+# .NET Lab 2 – Bicycle Rental and Mushroom Identification
 
 **Student:** Tracy Uwase  
 **Student ID:** 27105  
@@ -7,7 +7,7 @@
 
 ## Project description
 
-This mini project is a Windows Forms application developed for Lab 1. It demonstrates:
+This mini project is a Windows Forms application developed for Lab 2. It demonstrates:
 
 - Variables and data types
 - User input and validation
@@ -114,44 +114,3 @@ The possible results are:
 ### Mushroom result
 
 ![Mushroom result](screenshots/mushroom-result.png)
-
-Save all screenshots inside the `screenshots` folder using these filenames:
-
-```text
-login.png
-menu.png
-bicycle.png
-mushroom.png
-mushroom-question-1.png
-mushroom-question-2.png
-mushroom-result.png
-```
-
-## How to run
-
-1. Install Visual Studio with the **.NET desktop development** workload.
-2. Open `Assignment 1.slnx` in Visual Studio.
-3. Set the project as the startup project if necessary.
-4. Press `F5` or select **Start**.
-5. Log in using the test credentials above.
-
-## Project structure
-
-```text
-Assignment 1/
-├── Form1.cs                  # Login logic
-├── Form1.Designer.cs         # Login controls and layout
-├── MenuForm.cs               # Menu navigation logic
-├── MenuForm.Designer.cs      # Menu controls and layout
-├── BicycleForm.cs            # Bicycle calculation logic
-├── BicycleForm.Designer.cs   # Bicycle controls and layout
-├── MushroomForm.cs           # Mushroom decision logic
-├── MushroomForm.Designer.cs  # Mushroom controls and layout
-├── Program.cs                # Application entry point
-└── README.md
-```
-
-## Author
-
-Tracy Uwase  
-Student ID: 27105
